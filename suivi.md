@@ -32,8 +32,8 @@ Note ton avancée après chaque TP. Reste factuel, sans données personnelles. C
 
 ## TP04 — Responsive
 
-- Hypothèse :
-- Action :
+- Hypothèse : Le conteneur déborde
+- Action : 
 - Résultat :
 - Point non compris, test 360 / 1280 :
 

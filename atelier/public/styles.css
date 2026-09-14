@@ -1,2 +1,28 @@
-body { font-family: system-ui, sans-serif; margin: 2rem; color: #15213a; background: white; }
-main { max-width: 48rem; margin-inline: auto; }
+body {
+    font-family: system-ui, sans-serif;
+    color: #15213a;
+    background: white;
+}
+
+main {
+    max-width: 760px;
+    margin-inline: auto;
+    width: 100%;
+}
+
+header{
+    max-width: 760px;
+    margin-inline: auto;
+    width: 100%;
+}
+
+footer{
+    max-width: 760px;
+    margin-inline: auto;
+    width: 100%;
+}
+
+#chat-form{
+    display:flexbox;
+    flex-direction: column;
+}
