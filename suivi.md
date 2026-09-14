@@ -11,9 +11,9 @@ Note ton avancée après chaque TP. Reste factuel, sans données personnelles. C
 
 ## TP01 — Démarrer
 
-- Hypothèse :
-- Action :
-- Résultat :
+- Hypothèse : Si JS ne fonctionne pas il n'affiche pas "Votre point de départ est prêt"
+- Action : Modification du nom du fichier js relié au HTML
+- Résultat : Lorsque le JS ne fonctionne pas il n'affiche pas "Votre point de départ est prêt"
 - Point non compris :
 
 ## TP02 — HTML
