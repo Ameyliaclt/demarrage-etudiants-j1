@@ -32,9 +32,9 @@ Note ton avancée après chaque TP. Reste factuel, sans données personnelles. C
 
 ## TP04 — Responsive
 
-- Hypothèse : Le conteneur déborde
-- Action : 
-- Résultat :
+- Hypothèse : Le mot dépasse le champs du conteneur 
+- Action : appliquer un breakword sur le champs textarea
+- Résultat : le mot est coupé lorsqu'il arrive dans un conteneur etroit
 - Point non compris, test 360 / 1280 :
 
 ## Commandes essayées
@@ -48,16 +48,20 @@ git diff
 ```
 
 Mes essais :
+```sh
+cd atelier
+npm start
+```
 
-- Dossier :
-- Commande et résultat :
-- Problème exact si blocage :
+- Dossier : dossier racine
+- Commande et résultat : lancement du server afin d'afficher la vue utilisateur
+- Problème exact si blocage : 
 
 Si Node ou Git bloque, note le message exact et continue en local sans attendre. Le double-clic sur `diagnostic/index.html` ne remplace pas le serveur pour les modules et l'envoi du TP03.
 
 ## Auto-revue finale
 
-- Ce qui s'affiche bien :
+- Ce qui s'affiche bien :  le header s'affiche correctement en respectant l'ordre des titres sans saut de niveaux. Pour le reste le Main s'affiche correctement et l'envoie du formulaire fonctionne. 
 - Ce qui reste fragile au clavier ou à 360 px :
 - Ce que je veux revoir en capsule :
 
