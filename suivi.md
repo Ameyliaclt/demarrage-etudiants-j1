@@ -18,10 +18,10 @@ Note ton avancée après chaque TP. Reste factuel, sans données personnelles. C
 
 ## TP02 — HTML
 
-- Hypothèse :
-- Action :
-- Résultat :
-- Point non compris :
+- Hypothèse : Si on remplace Main par div les repères d'accessibilité seront moins accessible
+- Action : Garder le main
+- Résultat : la page est bien structuré avec un main, un header et un footer
+- Point non compris : Le point sur la Version, quel message est attendu ? 
 
 ## TP03 — Formulaire
 
