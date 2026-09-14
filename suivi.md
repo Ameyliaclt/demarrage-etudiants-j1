@@ -4,10 +4,10 @@ Note ton avancée après chaque TP. Reste factuel, sans données personnelles. C
 
 ## TP00 — Diagnostic
 
-- Hypothèse :
-- Action :
-- Résultat :
-- Point non compris :
+- Hypothèse : problème de largeur 
+- Action : Correction de la largeur du conteneur
+- Résultat : résolution du problème de largeur 
+- Point non compris : 
 
 ## TP01 — Démarrer
 

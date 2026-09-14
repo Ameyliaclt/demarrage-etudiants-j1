@@ -7,7 +7,7 @@ body {
 }
 
 .page {
-  width: 960px;
+  width: 90%;
   margin: 0 auto;
   padding: 16px;
   background: #f6f6f6;
@@ -27,7 +27,6 @@ body {
   background: #fff;
   border: 2px solid #333;
   padding: 24px;
-  width: 960px;
 }
 
 .etiquette {
@@ -40,9 +39,9 @@ body {
 }
 
 input {
-  width: 960px;
   padding: 8px;
   border: 1px solid #888;
+  width: 90%;
 }
 
 .bouton {

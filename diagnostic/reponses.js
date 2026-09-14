@@ -6,6 +6,8 @@ export function estValide(texte) {
   // TODO : retourner true si texte est une chaîne dont la longueur
   // après trim() est entre 3 et 40 inclus, false sinon.
   // Exemples : "Léa" -> true, "  AB  " -> false, "" -> false.
+  let txt = trim(texte);
+  if(txt.length>=3 && txt.length<=40) return true;
   return false;
 }
 
