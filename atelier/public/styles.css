@@ -23,6 +23,11 @@ footer{
 }
 
 #chat-form{
-    display:flexbox;
+    display:flex;
     flex-direction: column;
+    gap: 10px;
+}
+
+#messages {
+    overflow-wrap: break-word;
 }
